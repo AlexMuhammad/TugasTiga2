@@ -1,0 +1,10 @@
+D:\LEARNING\AMIKOM\Semester 3\PEMROGRAMAN\Pertemuan 03\TugasTiga2\TugasTiga2\bin\Debug\TugasTiga2.exe.config
+D:\LEARNING\AMIKOM\Semester 3\PEMROGRAMAN\Pertemuan 03\TugasTiga2\TugasTiga2\bin\Debug\TugasTiga2.exe
+D:\LEARNING\AMIKOM\Semester 3\PEMROGRAMAN\Pertemuan 03\TugasTiga2\TugasTiga2\bin\Debug\TugasTiga2.pdb
+D:\LEARNING\AMIKOM\Semester 3\PEMROGRAMAN\Pertemuan 03\TugasTiga2\TugasTiga2\obj\Debug\TugasTiga2.csprojAssemblyReference.cache
+D:\LEARNING\AMIKOM\Semester 3\PEMROGRAMAN\Pertemuan 03\TugasTiga2\TugasTiga2\obj\Debug\TugasTiga2.Form1.resources
+D:\LEARNING\AMIKOM\Semester 3\PEMROGRAMAN\Pertemuan 03\TugasTiga2\TugasTiga2\obj\Debug\TugasTiga2.Properties.Resources.resources
+D:\LEARNING\AMIKOM\Semester 3\PEMROGRAMAN\Pertemuan 03\TugasTiga2\TugasTiga2\obj\Debug\TugasTiga2.csproj.GenerateResource.cache
+D:\LEARNING\AMIKOM\Semester 3\PEMROGRAMAN\Pertemuan 03\TugasTiga2\TugasTiga2\obj\Debug\TugasTiga2.csproj.CoreCompileInputs.cache
+D:\LEARNING\AMIKOM\Semester 3\PEMROGRAMAN\Pertemuan 03\TugasTiga2\TugasTiga2\obj\Debug\TugasTiga2.exe
+D:\LEARNING\AMIKOM\Semester 3\PEMROGRAMAN\Pertemuan 03\TugasTiga2\TugasTiga2\obj\Debug\TugasTiga2.pdb
